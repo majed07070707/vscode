@@ -170,5 +170,8 @@
 	},
 	"css.format.spaceAroundSelectorSeparator": true,
 	"typescript.enablePromptUseWorkspaceTsdk": true,
-	"inlineChat.experimental.onlyZoneWidget": true
+	"inlineChat.experimental.onlyZoneWidget": true,
+	"marquee.widgets.npm-stats.packageNames": [
+		"code-oss-dev"
+	]
 }
